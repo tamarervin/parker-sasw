@@ -1,0 +1,27 @@
+name: e15  # environment name
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - astropy == 5.3
+  - jupyter
+  - matplotlib
+  - numpy == 1.24.3
+  - pathlib
+  - pandas == 1.5.3
+  - pip
+  - pyhdf
+  - pymdown-extensions
+  - python == 3.11.0
+  - scipy == 1.10.1
+  - sunpy == 4.1.2
+  - python-wget
+  - pip:
+    - pfsspy == 1.2.0
+    - ipykernel
+    - astrospice == 0.2.0
+    - heliopy < 1.0.0
+    - streamtracer
+    - plasmapy
+    - pyspedas == 1.4.36
+    - bokeh == 2.4.3
