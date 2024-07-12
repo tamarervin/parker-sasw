@@ -2,6 +2,9 @@
 
 Repository containing code for analysis and reproduction of figures from Ervin et. al. (2024) paper: Characteristics and Source Regions of Slow Alfvenic Solar Wind Observed by Parker Solar Probe
 
+[![DOI](https://zenodo.org/badge/827028789.svg)](https://zenodo.org/doi/10.5281/zenodo.12734996)
+
+
 # Main Text
 
 ## Figure One
