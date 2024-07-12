@@ -54,6 +54,12 @@ Box plot overviews of compositional parameters for the 11 SASW and 5 FSW streams
 # Appendix A
 
 ## Figure Seven
+Overview of solar wind velocity observations from the Wind 3DP instrument from 2004 to 2024. 
+
+- *Panel (a):* Time series of solar wind velocity from Wind at 1AU during the time period of this study.
+- *Panel (b):* Distribution of velocity measurements from 2004 to 2024 from Wind.
+- *Panel (c):* Distribution of velocity measurements during Solar Cycle 24 (January 2008 to December 2019).
+- *Panel (d):* Distribution of velocity measurements from 2020 to 2023, covering the time period in this study. In panels (b) to (d), the dashed red and blue lines indicate the 500~{\kms} and 400~{\kms} speed cutoffs respectively. The legend shows the percentage of observations that fall above that threshold for each period.
 
 # Appendix B
 
